@@ -4,7 +4,7 @@
 
 Me chamo Victor Guilherme S. da Silva, tenho 25 anos e sou natural de Pernambuco.
 Atualmente estou cursando Análise e desenvolvimento de sistemas na faculdade 
-Estácio. Estou em transição da área de vendas para a de tecnologia, que é na 
+Estácio. Estou em transição da área de vendas para a área de tecnologia, que é na 
 qual sou apaixonado. Aqui vou mostrar todos os meus projetos, focando na minha
 evolução profissional.
 
