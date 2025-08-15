@@ -82,10 +82,9 @@ evolução profissional.
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VttrrG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
----
-
-  ## 🚀 Ferramentas
-
-<code><img height="33" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 
 </p>
+
+## 🚀 Ferramentas
+
+<code><img height="33" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
